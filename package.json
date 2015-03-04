@@ -1,0 +1,29 @@
+{
+  "name": "is-truthy",
+  "version": "0.0.1",
+  "description": "Predicate that returns true for \"truthy\" values.",
+  "main": "is-truthy.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/miguelmota/is-truthy"
+  },
+  "keywords": [
+    "predicate",
+    "existy"
+  ],
+  "author": "Miguel Mota <hello@miguelmota.com> (http://www.miguelmota.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miguelmota/is-truthy/issues"
+  },
+  "homepage": "https://github.com/miguelmota/is-truthy",
+  "dependencies": {
+    "tape": "^3.0.3"
+  }
+}
