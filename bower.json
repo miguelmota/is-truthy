@@ -9,7 +9,7 @@
   "description": "Predicate that returns true for \"truthy\" values.",
   "keywords": [
     "predicate",
-    "existy"
+    "truthy"
   ],
   "ignore": [
     "**/.*",
