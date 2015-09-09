@@ -1,7 +1,7 @@
 (function(root) {
 
   function isTruthy(v) {
-    return v;
+    return !!v;
   }
 
   if (typeof exports !== 'undefined') {

@@ -1,6 +1,6 @@
 {
   "name": "is-truthy",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Predicate that returns true for \"truthy\" values.",
   "main": "is-truthy.js",
   "directories": {
@@ -23,7 +23,7 @@
     "url": "https://github.com/miguelmota/is-truthy/issues"
   },
   "homepage": "https://github.com/miguelmota/is-truthy",
-  "dependencies": {
-    "tape": "^3.0.3"
+  "devDependencies": {
+    "tape": "^4.2.0"
   }
 }
